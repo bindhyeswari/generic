@@ -1,0 +1,12 @@
+touch script
+<open the script in text editor>
+
+<put the following commands in there>
+mkdir js css img fonts
+curl http://code.jquery.com/jquery-1.11.0.js > js/jquery.js
+<save and close>
+
+chmod 777 script
+
+mac --> ./script <and enter>
+windows --> script <and enter>
